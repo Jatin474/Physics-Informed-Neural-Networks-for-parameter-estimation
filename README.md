@@ -69,7 +69,7 @@ To run the notebooks, you will need:
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/Jatin474/Physics-Informed-Neural-Networks-for-parameter-estimation>
    cd Physics-Informed-Neural-Networks
 
 2. Install required packages (if not already installed): Create a requirements.txt file with the necessary libraries, or manually install them using:
