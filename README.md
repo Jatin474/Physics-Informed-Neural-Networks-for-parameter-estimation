@@ -89,7 +89,7 @@ To run the notebooks, you will need:
 
 ## 5. Acknowledgments
 
-Special thanks to the developers and contributors of the TensorFlow library for providing essential tools for building and training neural networks.
-Acknowledgment to the authors of the PINN literature for their foundational research, which guided the implementation of these models.
-Thanks to the open-source community for providing valuable resources and libraries that made this project possible.
-Appreciation to the contributors of scientific literature on fluid dynamics and heat transfer for the theoretical frameworks used in this project
+- Special thanks to the developers and contributors of the TensorFlow library for providing essential tools for building and training neural networks.
+- Acknowledgment to the authors of the PINN literature for their foundational research, which guided the implementation of these models.
+- Thanks to the open-source community for providing valuable resources and libraries that made this project possible.
+- Appreciation to the contributors of scientific literature on fluid dynamics and heat transfer for the theoretical frameworks used in this project
